@@ -1,0 +1,29 @@
+html{ background-color: gray; 
+text-align: center;}
+p{	color: red;
+	background-color: black;
+	font-size: 100; 
+	font-variant-caps:0;}
+img{ align-items:center;
+	width: 1000px;
+	height:750px; }
+div{ 
+	text-align: center;
+	color:red;
+	background-color:darkblue;
+	/*
+	height:70px;
+	width:70px;
+	*/
+	padding:30px;
+	border:1px solid red;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-top-right-radius: 50px;
+	}
+h1{ text-align: center;
+	color: darkblue; 
+	font-size: 100;}
+body{ margin: 20px auto;
+	text-align: center;	}
